@@ -1,0 +1,15 @@
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\bin\Debug\net10.0\Estudo.exe
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\bin\Debug\net10.0\Estudo.deps.json
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\bin\Debug\net10.0\Estudo.runtimeconfig.json
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\bin\Debug\net10.0\Estudo.dll
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\bin\Debug\net10.0\Estudo.pdb
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\Estudo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\Estudo.AssemblyInfoInputs.cache
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\Estudo.AssemblyInfo.cs
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\Estudo.csproj.CoreCompileInputs.cache
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\Estudo.sourcelink.json
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\Estudo.dll
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\refint\Estudo.dll
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\Estudo.pdb
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\Estudo.genruntimeconfig.cache
+C:\Users\232.976614\Downloads\Estudos\Laços_Repetição\Estudo\obj\Debug\net10.0\ref\Estudo.dll
