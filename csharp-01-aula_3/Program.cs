@@ -87,8 +87,3 @@ void LimparListaDeCompras()
     Console.WriteLine("Lista de compras limpa.");
 }
 
-void ExibirLogo()
-{
-    Console.WriteLine(@"
-
-ExibirOpcoesDoMenu();

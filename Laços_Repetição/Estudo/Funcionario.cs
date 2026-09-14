@@ -8,18 +8,19 @@ namespace Estudo
 {
     public class Funcionario
     {
-        public string nomeFuncionario {get;  set;}
-        public float salarioFuncionario {get;  set;}
-        public Funcionario(string nome, float salario)
+        public string NomeFuncionario { get; set; }
+        public double SalarioFuncionario { get; set; }
+
+        public Funcionario(string nome, double salario)
         {
-            nomeFuncionario = nome;
-            salarioFuncionario = salario;
+            NomeFuncionario = nome;
+            SalarioFuncionario = salario;
         }
 
-        public void ExibirDadosFuncionario()
+        public void ExibirDadosFuncionario(params string[] textos)
         {
-            Console.Write($"Nome do funcionario: {nomeFuncionario}");
-            Console.WriteLine($"Salario do funcionario: {salarioFuncionario}");
+            foreach (string texto in textos)
+                Console.WriteLine(texto);
         }
     }
 }
