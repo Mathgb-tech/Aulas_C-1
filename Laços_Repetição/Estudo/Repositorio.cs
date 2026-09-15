@@ -7,8 +7,9 @@ namespace Estudo
 {
     public class Repositorio
     {
-        Dictionary<string, Funcionario> bancoDeDadosFuncionario = new Dictionary<string, Funcionario>();
+        private Dictionary<string, Funcionario> bancoDeDadosFuncionario = new Dictionary<string, Funcionario>();
 
+        
         //Metodo que recebe um objeto do tipo funcionario e adiciona dentro do banco.
         public void AdicionarFuncionarioAoBanco(Funcionario funcionario)
         {
